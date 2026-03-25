@@ -25,3 +25,7 @@
 - git remote add origin LINK &#8594; liga o repositório atual local a um repositório online
 - git push -u origin master &#8594; envia a branch master para o repositório online (necessário apenas no primeiro envio)
 - git push &#8594; enviar o repositório atual local para o repositório online
+- git fetch &#8594; carrega as branch remotas para o repositório local
+- git branch -a &#8594; mostra todas as branch (locais e remotas)
+- git push &#8594; enviar o repositório atual local para o repositório online
+- git pull &#8594; descarregar alterações que existam no repositório online
